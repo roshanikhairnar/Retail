@@ -2,7 +2,8 @@
 Prerequisites:
   1. golang env
   2. POSTMAN
-  3. mySQL Workbench
+  3. mySQL Workbench 
+
 How to run?
   1. go build (it willl create one executable file)
   2. .\shopalyst_application.exe
